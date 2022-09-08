@@ -17,6 +17,6 @@ Bifurca (fork) y clona (clone) este lab en tu entorno local. Navega a su directo
  
 1. Utiliza el selector de elementos para:
  - Asignar un color de fondo al elemento `body`
- - Asignar el tipo de letra `“Courier New”, Courier monospace` a los `h1`
+ - Asignar el tipo de letra `“Courier New”, Courier, monospace` a los `h1`
  - Centrar el texto de los `h2`
  
